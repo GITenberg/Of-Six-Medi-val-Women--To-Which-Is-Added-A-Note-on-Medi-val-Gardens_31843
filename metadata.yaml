@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35511'
     url: http://www.gutenberg.org/2009/agents/35511
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31843#Of-Six-Medi-val-Women--To-Which-Is-Added-A-Note-on-Medi-val-Gardens
 gutenberg_issued: '2010-03-31'
 gutenberg_type: Text
 identifiers:
